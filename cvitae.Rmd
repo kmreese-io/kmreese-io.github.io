@@ -2,6 +2,4 @@
 title: curriculum vitae
 ---
 
-[View my curriculum vitae.]('https://nd.academia.edu/KelseyMReese/CurriculumVitae')
-
-[View my curriculum vitae.](nd.academia.edu/KelseyMReese/CurriculumVitae)
+[View my curriculum vitae.]('https://drive.google.com/file/d/1mtx5ZSB5HErBRv93iBkItErZ5McJIwaw/view?usp=sharing')
