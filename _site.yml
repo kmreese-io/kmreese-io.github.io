@@ -1,0 +1,16 @@
+name: "kmreese.io"
+navbar:
+  title: "Kelsey M. Reese"
+  left:
+    - text: "home"
+      href: index.html
+    - text: "publications"
+      href: publications.html
+    - text: "projects"
+      href: projects.html
+    - text: "curriculum vitae"
+      href: cvitae.html
+output:
+  html_document:
+    theme: yeti
+    highlight: textmate
