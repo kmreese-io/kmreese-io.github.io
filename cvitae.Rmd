@@ -2,9 +2,4 @@
 title: curriculum vitae
 ---
 
-![](/Users/kmreese/Documents/kmreese.io/kmreese-io.github.io/Pictures/REESE_curriculumvitæ-1.jpg)  
-![](/Users/kmreese/Documents/kmreese.io/kmreese-io.github.io/Pictures/REESE_curriculumvitæ-2.jpg)  
-![](/Users/kmreese/Documents/kmreese.io/kmreese-io.github.io/Pictures/REESE_curriculumvitæ-3.jpg)  
-![](/Users/kmreese/Documents/kmreese.io/kmreese-io.github.io/Pictures/REESE_curriculumvitæ-4.jpg)  
-![](/Users/kmreese/Documents/kmreese.io/kmreese-io.github.io/Pictures/REESE_curriculumvitæ-5.jpg)  
-![](/Users/kmreese/Documents/kmreese.io/kmreese-io.github.io/Pictures/REESE_curriculumvitæ-6.jpg)  
+![](https://github.com/kmreese-io/kmreese-io.github.io/raw/master/REESE_curriculumvitæ.pdf)
