@@ -22,11 +22,11 @@ title: "projects"
 <div class="column-full">
 
 **************************************************************************
-## **Dynamic Communities on the Mesa Verde Cuesta** (*in print*)
+## **Dynamic Communities on the Mesa Verde Cuesta**
 </div>
 
 <div class="column-left">
-![](/Users/kmreese/Documents/kmreese.io/kmreese-io.github.io/Pictures/REESE_ET_AL_2019.jpg)
+![](/Users/kmreese/Documents/PROFESSIONAL/kmreese-io.github.io/Pictures/REESE_ET_AL_2019.jpg)
 \linebreak
 \linebreak
   
@@ -43,7 +43,7 @@ This paper systematically and quantitatively characterizes interaction dynamics 
 </div>
 
 <div class="column-left">
-![](/Users/kmreese/Documents/kmreese.io/kmreese-io.github.io/Pictures/SAA-REESE_2019.jpeg)
+![](/Users/kmreese/Documents/PROFESSIONAL/kmreese-io.github.io/Pictures/SAA-REESE_2019.jpeg)
 \linebreak
 \linebreak
   
@@ -60,7 +60,7 @@ Full-coverage pedestrian survey to record new sites on unknown archaeological la
 </div>
 
 <div class="column-left">
-![](/Users/kmreese/Documents/kmreese.io/kmreese-io.github.io/Pictures/SAA-REESE_AND_YAQUINTO_2018.jpeg)
+![](/Users/kmreese/Documents/PROFESSIONAL/kmreese-io.github.io/Pictures/SAA-REESE_AND_YAQUINTO_2018.jpeg)
 \linebreak
 \linebreak
   
