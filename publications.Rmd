@@ -4,10 +4,10 @@ title: "publications"
 
 ## peer-reviewed
 **Reese, Kelsey M.**, Donna M. Glowacki, and Timothy A. Kohler   
-2019&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Dynamic Communities on the Mesa Verde Cuesta](https://kmreese-io.github.io/Documents/Reese_et_al_2019.pdf). *American Antiquity* 84(4): 728--747.
+2019&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://kmreese-io.github.io/Documents/Reese_et_al_2019.pdf" target="_blank">Dynamic Communities on the Mesa Verde Cuesta.</a>. *American Antiquity* 84(4): 728--747.
 
 Kohler, Timothy A., and **Kelsey M. Reese**   
-2014&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Long and spatially variable Neolithic Demographic Transition in the North American Southwest](https://kmreese-io.github.io/Documents/Kohler_and_Reese_2014.pdf). *Proceedings of the National Academy of Sciences* 111(28): 10101--10106.
+2014&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://kmreese-io.github.io/Documents/Kohler_and_Reese_2014.pdf" target="_blank">Long and spatially variable Neolithic Demographic Transition in the North American Southwest.</a> *Proceedings of the National Academy of Sciences* 111(28): 10101--10106.
 
 ## technical reports
 **Reese, Kelsey M.**  

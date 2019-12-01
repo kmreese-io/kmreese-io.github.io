@@ -2,6 +2,4 @@
 title: curriculum vitae
 ---
 
-<!-- [Curriculum Vitae.](https://kmreese-io.github.io/Documents/Reese_CV-11012019.pdf) -->
-
 <a href="https://kmreese-io.github.io/Documents/Reese_CV-11012019.pdf" target="_blank">Curriculum Vitae.</a>
