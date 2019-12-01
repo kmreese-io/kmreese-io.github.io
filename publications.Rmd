@@ -4,12 +4,15 @@ title: "publications"
 
 ## peer-reviewed
 **Reese, Kelsey M.**, Donna M. Glowacki, and Timothy A. Kohler   
-n.d.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dynamic Communities on the Mesa Verde Cuesta. *American Antiquity.* In print.
+2019&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Dynamic Communities on the Mesa Verde Cuesta](https://kmreese-io.github.io/Documents/Reese_et_al_2019.pdf). *American Antiquity* 84(4): 728--747.
 
 Kohler, Timothy A., and **Kelsey M. Reese**   
-2014&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Long and spatially variable Neolithic Demographic Transition in the North American Southwest](http://www.pnas.org/content/111/28/10101.full.pdf?with-ds=yes). *Proceedings of the National Academy of Sciences* 111(28):10101-10106.
+2014&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Long and spatially variable Neolithic Demographic Transition in the North American Southwest](https://kmreese-io.github.io/Documents/Kohler_and_Reese_2014.pdf). *Proceedings of the National Academy of Sciences* 111(28): 10101--10106.
 
 ## technical reports
+**Reese, Kelsey M.**  
+2019&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Fieldwork Episode Report 2019: Survey of Bureau of Land Management Sites on the Mesa Verde North Escarpment*. Report on file at the Bureau of Land Management Tres Rios Field Office in compliance with Research Permit C-79006, Dolores, Colorado.
+
 **Reese, Kelsey M.**  
 2018&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Fieldwork Episode Report 2018: Preliminary Survey of Bureau of Land Management Sites on the Mesa Verde North Escarpment*. Report on file at the Bureau of Land Management Tres Rios Field Office in compliance with Research Permit C-79006, Dolores, Colorado.
 
