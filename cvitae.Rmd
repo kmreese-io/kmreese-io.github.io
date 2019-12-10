@@ -2,4 +2,4 @@
 title: curriculum vitae
 ---
 
-<a href="https://kmreese-io.github.io/Documents/Reese_CV-11012019.pdf" target="_blank">Curriculum Vitae.</a>
+<a href="https://kmreese-io.github.io/Documents/Reese_CV-12012019.pdf" target="_blank">Curriculum Vitae.</a>
