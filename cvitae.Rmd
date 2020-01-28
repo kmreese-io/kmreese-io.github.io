@@ -1,5 +1,5 @@
 ---
-title: curriculum vitae
+title: "curriculum vitae"
 ---
 
-<a href="https://kmreese-io.github.io/Documents/Reese_CV-01012020.pdf" target="_blank">Curriculum Vitae.</a>
+<a href="https://kmreese-io.github.io/Documents/kmreese-cv.pdf" target="_blank">Curriculum Vitae.</a>
