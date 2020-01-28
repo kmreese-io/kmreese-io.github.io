@@ -19,16 +19,11 @@ title: "projects"
   text-align: left;
 }
 </style>
-<div class="column-full">
 
+<div class="column-full">
 **************************************************************************
-<<<<<<< HEAD
 ## **Check Dam Agriculture on the Mesa Verde Cuesta**  
 ### *Submitted for review*  
-=======
-## **Dynamic Communities on the Mesa Verde Cuesta**  
-*American Antiquity*
->>>>>>> 0421590e297554886cd11758f70c961e19db0c34
 </div>
 
 <div class="column-left">
@@ -45,7 +40,6 @@ Prehistoric water management in the northern US Southwest was integral to succes
 
 <div class="column-full">
 **************************************************************************
-<<<<<<< HEAD
 ## **Dynamic Communities on the Mesa Verde Cuesta**  
 ### *American Antiquity*  
 </div>
@@ -64,8 +58,6 @@ This paper systematically and quantitatively characterizes interaction dynamics 
 
 <div class="column-full">
 **************************************************************************
-=======
->>>>>>> 0421590e297554886cd11758f70c961e19db0c34
 ## **Mind the Gap: The Mesa Verde North Escarpment**
 </div>
 
