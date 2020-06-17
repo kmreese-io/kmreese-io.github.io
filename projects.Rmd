@@ -27,7 +27,9 @@ title: "projects"
 </div>
 
 <div class="column-left">
+<center>
 ![](/Users/kmreese/Documents/PROFESSIONAL/kmreese-io.github.io/Pictures/Reese-JAS.gif)
+</center>
 \linebreak
 \linebreak
   
