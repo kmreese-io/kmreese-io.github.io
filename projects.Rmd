@@ -22,6 +22,24 @@ title: "projects"
 
 <div class="column-full">
 **************************************************************************
+## **Deep Learning Artificial Neural Networks for Non-destructive Archaeological Site Dating**
+### *Submitted for review*  
+</div>
+
+<div class="column-left">
+![](/Users/kmreese/Documents/PROFESSIONAL/kmreese-io.github.io/Pictures/Reese-JAS.gif)
+\linebreak
+\linebreak
+  
+**Code for** [**Deep Learning Artificial Neural Networks for Non-destructive Archaeological Site Dating**](https://github.com/kmreese-io/Reese_2020-JAS)
+</div>
+
+<div class="column-right">
+This article introduces artificial neural networks as a computational tool to utilize legacy archaeological data for precisely and accurately estimating dates of residential site occupation. The implementation of this deep learning algorithm can provide high-resolution demographic reconstructions of a study area from non-collection, non-invasive, and non-destructive data collection methods that only record frequencies of artifact types on the contemporary ground surface. The utility of this deep learning algorithm is presented through an example from the central Mesa Verde region in the northern US Southwest. Results show a properly trained artificial neural network predicts annual residential occupation with an average 93.2% accuracy from AD 450–1300. An annual demographic reconstruction of the central Mesa Verde region is also presented.
+</div>
+
+<div class="column-full">
+**************************************************************************
 ## **A Theoretical and Methodological Framework for Free and Open-source UAV-based Archaeological Research**  
 ### *Submitted for review*  
 </div>
@@ -49,7 +67,7 @@ Full-coverage pedestrian survey to record cultural features on unexplored archae
 \linebreak
 \linebreak
   
-**Code for** [**Check Dam Agriculture on the Mesa Verde Cuesta**](https://github.com/kmreese-io/Reese_2020)
+**Code for** [**Check Dam Agriculture on the Mesa Verde Cuesta**](https://github.com/kmreese-io/Reese_2020-JASR)
 </div>
 
 <div class="column-right">
