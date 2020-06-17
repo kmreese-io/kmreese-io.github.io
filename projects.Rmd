@@ -51,7 +51,7 @@ This article introduces artificial neural networks as a computational tool to ut
 \linebreak
 \linebreak
   
-**Code for** [**the free and open-source protocol**](https://github.com/kmreese-io/Reese_and_Field_2020/blob/master/Reese_and_Field_2020-foss-protocol.txt)
+**Code for** [**the Free and Open-source Software (FOSS) Protocol**](https://github.com/kmreese-io/Reese_and_Field_2020/blob/master/Reese_and_Field_2020-foss-protocol.txt)
 </div>
 
 <div class="column-right">
