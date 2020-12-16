@@ -28,16 +28,16 @@ title: "projects"
 
 <div class="column-left">
 <center>
-![](/Users/kmreese/Documents/PROFESSIONAL/kmreese-io.github.io/Pictures/Reese-JAS.gif)
+![](/Users/kmreese/Documents/PROFESSIONAL/kmreese-io.github.io/Pictures/Reese_2021-JAS.gif)
 </center>
 \linebreak
 \linebreak
   
-**Code for** [**Deep Learning Artificial Neural Networks for Non-destructive Archaeological Site Dating**](https://github.com/kmreese-io/Reese_2020-JAS)
+**Code for** [**Deep Learning Artificial Neural Networks for Non-destructive Archaeological Site Dating**](https://github.com/kmreese-io/Reese_2021-JAS)
 </div>
 
 <div class="column-right">
-This article introduces artificial neural networks as a computational tool to utilize legacy archaeological data for precisely and accurately estimating dates of residential site occupation. The implementation of this deep learning algorithm can provide high-resolution demographic reconstructions of a study area from non-collection, non-invasive, and non-destructive data collection methods that only record frequencies of artifact types on the contemporary ground surface. The utility of this deep learning algorithm is presented through an example from the central Mesa Verde region in the northern US Southwest. Results show a properly trained artificial neural network predicts annual residential occupation with an average 93.2% accuracy from AD 450–1300. An annual demographic reconstruction of the central Mesa Verde region is also presented.
+This article introduces artificial neural networks as a computational tool to utilize legacy archaeological data for precisely and accurately estimating dates of residential site occupation. The implementation of this deep learning algorithm can provide high-resolution demographic reconstructions of a study area from non-collection, non-invasive, and non-destructive data collection methods that only record frequencies of artifact types on the contemporary ground surface. The utility of this deep learning algorithm is presented through an example from the central Mesa Verde region in the northern US Southwest. Results show a properly trained artificial neural network predicts annual residential occupation with an average 93.5% accuracy from AD 450--1300. An annual demographic reconstruction of the central Mesa Verde region is also presented.
 </div>
 
 <div class="column-full">
@@ -47,11 +47,11 @@ This article introduces artificial neural networks as a computational tool to ut
 </div>
 
 <div class="column-left">
-![](/Users/kmreese/Documents/PROFESSIONAL/kmreese-io.github.io/Pictures/Reese-PLOS-ONE.jpg)
+![](/Users/kmreese/Documents/PROFESSIONAL/kmreese-io.github.io/Pictures/Reese_2021-PLOS-ONE.jpg)
 \linebreak
 \linebreak
   
-**Code for** [**the Free and Open-source Software (FOSS) Protocol**](https://github.com/kmreese-io/Reese_and_Field_2020/blob/master/Reese_and_Field_2020-foss-protocol.txt)
+**Code for** [**the Free and Open-source Software (FOSS) Protocol**](https://github.com/kmreese-io/Reese_and_Field_2021-PLOS/blob/master/Reese_and_Field_2021-foss-protocol.txt)
 </div>
 
 <div class="column-right">
@@ -65,7 +65,7 @@ Full-coverage pedestrian survey to record cultural features on unexplored archae
 </div>
 
 <div class="column-left">
-![](/Users/kmreese/Documents/PROFESSIONAL/kmreese-io.github.io/Pictures/Reese-JASR.jpg)
+![](/Users/kmreese/Documents/PROFESSIONAL/kmreese-io.github.io/Pictures/Reese_2020-JASR.jpg)
 \linebreak
 \linebreak
   
@@ -91,7 +91,7 @@ Prehistoric water management in the northern US Southwest was integral to succes
 </div>
 
 <div class="column-right">
-This paper systematically and quantitatively characterizes interaction dynamics and community formation based on changes in spatial patterns of contemporaneous households. We develop and apply a geo-spatial routine to measure changing extents of household interaction and community formation from A.D. 600–1280 on the Mesa Verde cuesta in southwestern Colorado. Results suggest that household spatial organization was shaped simultaneously by the maintenance of regular social interaction that sustained communities, and the need for physical space among households. Between A.D. 600 and 1200, households balanced these factors by forming an increased number of dispersed communities in response to increases in population and variable environmental stressors. However, as population rebounded after the mid-1100s megadrought, communities became increasingly compact, disrupting a long-standing equilibrium between household interaction and subsistence space within each community. The vulnerabilities this change in community spatial organization created were compounded by a cooler climate, drought, violence, and changes in political and ritual organization in the mid-A.D. 1200s, which ultimately culminated in the complete depopulation of the Mesa Verde cuesta by the end of the thirteenth century.
+This paper systematically and quantitatively characterizes interaction dynamics and community formation based on changes in spatial patterns of contemporaneous households. We develop and apply a geo-spatial routine to measure changing extents of household interaction and community formation from A.D. 600--1280 on the Mesa Verde cuesta in southwestern Colorado. Results suggest that household spatial organization was shaped simultaneously by the maintenance of regular social interaction that sustained communities, and the need for physical space among households. Between A.D. 600 and 1200, households balanced these factors by forming an increased number of dispersed communities in response to increases in population and variable environmental stressors. However, as population rebounded after the mid-1100s megadrought, communities became increasingly compact, disrupting a long-standing equilibrium between household interaction and subsistence space within each community. The vulnerabilities this change in community spatial organization created were compounded by a cooler climate, drought, violence, and changes in political and ritual organization in the mid-A.D. 1200s, which ultimately culminated in the complete depopulation of the Mesa Verde cuesta by the end of the thirteenth century.
 </div>
 
 <div class="column-full">

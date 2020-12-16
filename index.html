@@ -22,6 +22,17 @@
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/highlightjs-9.12.0/textmate.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
+<link href="site_libs/anchor-sections-1.0/anchor-sections.css" rel="stylesheet" />
+<script src="site_libs/anchor-sections-1.0/anchor-sections.js"></script>
+
+<style type="text/css">
+  code{white-space: pre-wrap;}
+  span.smallcaps{font-variant: small-caps;}
+  span.underline{text-decoration: underline;}
+  div.column{display: inline-block; vertical-align: top; width: 50%;}
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  ul.task-list{list-style: none;}
+    </style>
 
 <style type="text/css">code{white-space: pre;}</style>
 <style type="text/css">
@@ -304,7 +315,7 @@ $(document).ready(function () {
  </p>
 <p>I am a computational archaeologist specializing in large-scale geospatial analyses. My dissertation work focuses on understanding occupation, community development, and resiliency of populations in ecologically marginal spaces. My research is being done on the Mesa Verde North Escarpment in southwestern Colorado where I am implementing drone orthoimaging and full pedestrian survey to efficiently and effectively record sites inhabited by the ancestral Pueblo people anywhere between AD 600 and 1300.</p>
 <p>I received my MA in Anthropology from Washington State University and my BA in Political Science and Anthropology from the University of Illinois at Urbana-Champaign. I am currently a PhD Candidate at the University of Notre Dame and a University Presidential Fellow in Humanities and Social Sciences.</p>
-<p><a href="https://the-journal.com/articles/156383-pueblo-villages-thrived-on-mesa-verde-escarpment">Read an article about a recent presentation on the Mesa Verde North Escarpment.</a></p>
+<p><a href="https://the-journal.com/articles/156383-pueblo-villages-thrived-on-mesa-verde-escarpment">Read an article from the Cortez Journal about a public presentation on the Mesa Verde North Escarpment.</a></p>
 <div id="contact" class="section level3">
 <h3>contact</h3>
 <p><a href="mailto:kreese1@nd.edu" class="email">kreese1@nd.edu</a></p>
@@ -326,7 +337,7 @@ Santa Fe, New Mexico 87501</p>
 
 // add bootstrap table styles to pandoc tables
 function bootstrapStylePandocTables() {
-  $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
+  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');
 }
 $(document).ready(function () {
   bootstrapStylePandocTables();
