@@ -4,6 +4,9 @@ title: "publications"
 
 ## peer-reviewed
 **Reese, Kelsey M.**   
+2021&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Deep learning artificial neural networks for non-destructive archaeological site dating *Journal of Archaeological Science* In print.
+
+**Reese, Kelsey M.**   
 2020&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://kmreese-io.github.io/Documents/Reese_2020.pdf" target="_blank">Check dam agriculture on the Mesa Verde Cuesta.</a> *Journal of Archaeological Science: Reports* 31(102372): 1--10.
 
 **Reese, Kelsey M.**, Donna M. Glowacki, and Timothy A. Kohler   
