@@ -1,0 +1,428 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<meta charset="utf-8" />
+<meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
+
+
+
+
+<title>projects</title>
+
+<script src="site_libs/header-attrs-2.8/header-attrs.js"></script>
+<script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="site_libs/bootstrap-3.3.5/css/yeti.min.css" rel="stylesheet" />
+<script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<style>h1 {font-size: 34px;}
+       h1.title {font-size: 38px;}
+       h2 {font-size: 30px;}
+       h3 {font-size: 24px;}
+       h4 {font-size: 18px;}
+       h5 {font-size: 16px;}
+       h6 {font-size: 12px;}
+       code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
+       pre:not([class]) { background-color: white }</style>
+<script src="site_libs/navigation-1.1/tabsets.js"></script>
+<link href="site_libs/highlightjs-9.12.0/textmate.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
+
+<style type="text/css">
+  code{white-space: pre-wrap;}
+  span.smallcaps{font-variant: small-caps;}
+  span.underline{text-decoration: underline;}
+  div.column{display: inline-block; vertical-align: top; width: 50%;}
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  ul.task-list{list-style: none;}
+    </style>
+
+<style type="text/css">code{white-space: pre;}</style>
+<script type="text/javascript">
+if (window.hljs) {
+  hljs.configure({languages: []});
+  hljs.initHighlightingOnLoad();
+  if (document.readyState && document.readyState === "complete") {
+    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
+  }
+}
+</script>
+
+
+
+
+
+
+
+
+<style type = "text/css">
+.main-container {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+img {
+  max-width:100%;
+}
+.tabbed-pane {
+  padding-top: 12px;
+}
+.html-widget {
+  margin-bottom: 20px;
+}
+button.code-folding-btn:focus {
+  outline: none;
+}
+summary {
+  display: list-item;
+}
+pre code {
+  padding: 0;
+}
+</style>
+
+
+<style type="text/css">
+.dropdown-submenu {
+  position: relative;
+}
+.dropdown-submenu>.dropdown-menu {
+  top: 0;
+  left: 100%;
+  margin-top: -6px;
+  margin-left: -1px;
+  border-radius: 0 6px 6px 6px;
+}
+.dropdown-submenu:hover>.dropdown-menu {
+  display: block;
+}
+.dropdown-submenu>a:after {
+  display: block;
+  content: " ";
+  float: right;
+  width: 0;
+  height: 0;
+  border-color: transparent;
+  border-style: solid;
+  border-width: 5px 0 5px 5px;
+  border-left-color: #cccccc;
+  margin-top: 5px;
+  margin-right: -10px;
+}
+.dropdown-submenu:hover>a:after {
+  border-left-color: #adb5bd;
+}
+.dropdown-submenu.pull-left {
+  float: none;
+}
+.dropdown-submenu.pull-left>.dropdown-menu {
+  left: -100%;
+  margin-left: 10px;
+  border-radius: 6px 0 6px 6px;
+}
+</style>
+
+<script type="text/javascript">
+// manage active state of menu based on current page
+$(document).ready(function () {
+  // active menu anchor
+  href = window.location.pathname
+  href = href.substr(href.lastIndexOf('/') + 1)
+  if (href === "")
+    href = "index.html";
+  var menuAnchor = $('a[href="' + href + '"]');
+
+  // mark it active
+  menuAnchor.tab('show');
+
+  // if it's got a parent navbar menu mark it active as well
+  menuAnchor.closest('li.dropdown').addClass('active');
+
+  // Navbar adjustments
+  var navHeight = $(".navbar").first().height() + 15;
+  var style = document.createElement('style');
+  var pt = "padding-top: " + navHeight + "px; ";
+  var mt = "margin-top: -" + navHeight + "px; ";
+  var css = "";
+  // offset scroll position for anchor links (for fixed navbar)
+  for (var i = 1; i <= 6; i++) {
+    css += ".section h" + i + "{ " + pt + mt + "}\n";
+  }
+  style.innerHTML = "body {" + pt + "padding-bottom: 40px; }\n" + css;
+  document.head.appendChild(style);
+});
+</script>
+
+<!-- tabsets -->
+
+<style type="text/css">
+.tabset-dropdown > .nav-tabs {
+  display: inline-table;
+  max-height: 500px;
+  min-height: 44px;
+  overflow-y: auto;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs > li.active:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
+  content: "&#xe258;";
+  border: none;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs > li.active {
+  display: block;
+}
+
+.tabset-dropdown > .nav-tabs > li > a,
+.tabset-dropdown > .nav-tabs > li > a:focus,
+.tabset-dropdown > .nav-tabs > li > a:hover {
+  border: none;
+  display: inline-block;
+  border-radius: 4px;
+  background-color: transparent;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
+  display: block;
+  float: none;
+}
+
+.tabset-dropdown > .nav-tabs > li {
+  display: none;
+}
+</style>
+
+<!-- code folding -->
+
+
+
+
+</head>
+
+<body>
+
+
+<div class="container-fluid main-container">
+
+
+
+
+<div class="navbar navbar-default  navbar-fixed-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="index.html">Kelsey M. Reese</a>
+    </div>
+    <div id="navbar" class="navbar-collapse collapse">
+      <ul class="nav navbar-nav">
+        <li>
+  <a href="index.html">home</a>
+</li>
+<li>
+  <a href="publications.html">publications</a>
+</li>
+<li>
+  <a href="projects.html">projects</a>
+</li>
+<li>
+  <a href="cvitae.html">curriculum vitae</a>
+</li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        
+      </ul>
+    </div><!--/.nav-collapse -->
+  </div><!--/.container -->
+</div><!--/.navbar -->
+
+<div id="header">
+
+
+
+<h1 class="title toc-ignore">projects</h1>
+
+</div>
+
+
+<style>
+.column-full{
+  float: left;
+  width: 100%;
+  text-align: left;
+}
+.column-left{
+  float: left;
+  width: 50%;
+  text-align: left;
+}
+.column-right{
+  float: right;
+  width: 49%;
+  text-align: left;
+}
+</style>
+<!-- <div class="column-full"> -->
+<!-- ************************************************************************** -->
+<!-- ## **A Theoretical Framework for Free and Open-source UAV-based Archaeological Research** -->
+<!-- ### *Submitted for review* -->
+<!-- </div> -->
+<!-- <div class="column-left"> -->
+<!-- ![](/Users/kmreese/Documents/PROFESSIONAL/kmreese-io.github.io/Pictures/Reese_2021-AAP.jpg) -->
+<!-- \linebreak -->
+<!-- \linebreak -->
+<!-- **Code for** [**the Free and Open-source Software (FOSS) Protocol**](https://github.com/kmreese-io/Reese_and_Field_2021-PLOS/blob/master/Reese_and_Field_2021-foss-protocol.txt) -->
+<!-- </div> -->
+<!-- <div class="column-right"> -->
+<!-- Decreasing costs of consumer-level Unmanned Aerial Vehicles (UAVs) have increased accessibility to UAV-collected landscape data in archaeological contexts. Publications discussing the use of UAVs in archaeology, however, have mainly focused on the details of data collection while rarely discussing the potential applications of the collected information once it is processed. This focus on data collection has stunted the development of heuristic or theory-driven approaches to utilizing UAV-collected landscape data in pursuit of anthropologically-based research questions. This paper presents a theoretical framework for understanding how UAVs can inform and change our perspectives of cultural landscapes, and presents a case study applying the free and open-source protocol presented by Reese and Field (this issue) to illustrate one potential way to implement this technology to inform a heuristic model of constructed places in cultural landscapes. -->
+<!-- </div> -->
+<!-- <div class="column-full"> -->
+<!-- ************************************************************************** -->
+<!-- ## **A Methodological Framework for Free and Open-source UAV-based Archaeological Research** -->
+<!-- ### *Submitted for review* -->
+<!-- </div> -->
+<!-- <div class="column-left"> -->
+<!-- ![](/Users/kmreese/Documents/PROFESSIONAL/kmreese-io.github.io/Pictures/Reese_and_Field_2021-AAP.jpg) -->
+<!-- \linebreak -->
+<!-- \linebreak -->
+<!-- **Code for** [**the Free and Open-source Software (FOSS) Protocol**](https://github.com/kmreese-io/Reese_and_Field_2021-AAP/blob/master/Reese_and_Field_2021-foss-protocol.txt) -->
+<!-- </div> -->
+<!-- <div class="column-right"> -->
+<!-- Full-coverage pedestrian survey to record cultural features on unexplored archaeological landscapes is costly in terms of time, money, and personnel. Over the past two decades, researchers have implemented remote sensing and landscape data collection techniques using Unmanned Aerial Vehicles (UAVs) to combat some of these burdens, but the initial cost of equipment, software, and processing power has hindered the ubiquitous implementation of UAV technology as an accessible companion tool to traditional archaeological survey. This paper presents a free and open-source, technology-independent analytical framework for the collection and processing of UAV images to produce high-resolution digital terrain models limited only by the equipment available to the researcher. Results from the free and open-source protocol are directly compared with those produced using proprietary software to illustrate the capabilities of freely-available data processing tools for UAV-collected images. By replicating the methods outlined here, researchers should be able to identify and target areas of interest to increase fieldwork efficiency, decrease costs of implementing this technology, and produce high-resolution terrain models to conduct spatial analyses that pursue a deeper understanding of cultural landscapes. -->
+<!-- </div> -->
+<div class="column-full">
+<hr />
+<div id="deep-learning-artificial-neural-networks-for-non-destructive-archaeological-site-dating" class="section level2">
+<h2><strong>Deep Learning Artificial Neural Networks for Non-destructive Archaeological Site Dating</strong></h2>
+<div id="journal-of-archaeological-science" class="section level3">
+<h3><em>Journal of Archaeological Science</em></h3>
+</div>
+</div>
+</div>
+<div class="column-left">
+<center>
+<img src="Pictures/REESE_2021-JAS.gif" />
+</center>
+<p><strong>Code for</strong> <a href="https://github.com/kmreese-io/Reese_2021-JAS"><strong>Deep Learning Artificial Neural Networks for Non-destructive Archaeological Site Dating</strong></a></p>
+</div>
+<div class="column-right">
+<p>This article introduces artificial neural networks as a computational tool to utilize legacy archaeological data for precisely and accurately estimating dates of residential site occupation. The implementation of this deep learning algorithm can provide high-resolution demographic reconstructions of a study area from non-collection, non-invasive, and non-destructive data collection methods that only record frequencies of artifact types on the contemporary ground surface. The utility of this deep learning algorithm is presented through an example from the central Mesa Verde region in the northern US Southwest. Results show a properly trained artificial neural network predicts annual residential occupation with an average 92.8% accuracy from AD 450–1300. An annual demographic reconstruction of the central Mesa Verde region using occupation predictions from the artificial neural network is also presented.</p>
+</div>
+<div class="column-full">
+<hr />
+<div id="check-dam-agriculture-on-the-mesa-verde-cuesta" class="section level2">
+<h2><strong>Check Dam Agriculture on the Mesa Verde Cuesta</strong></h2>
+<div id="journal-of-archaeological-science-reports" class="section level3">
+<h3><em>Journal of Archaeological Science: Reports</em></h3>
+</div>
+</div>
+</div>
+<div class="column-left">
+<p><img src="Pictures/Reese_2020-JASR.jpg" />  </p>
+<p><strong>Code for</strong> <a href="https://github.com/kmreese-io/Reese_2020-JASR"><strong>Check Dam Agriculture on the Mesa Verde Cuesta</strong></a></p>
+</div>
+<div class="column-right">
+<p>Prehistoric water management in the northern US Southwest was integral to successful subsistence. On the Mesa Verde cuesta in southwestern Colorado, several types of water management features have been identified in the archaeological record, but research into these features has typically focused on the efficacy of reservoirs—a large-scale, labor-intensive, and community-oriented means of collecting and storing water. This focus on large-scale water management features has largely ignored the productive potential of small-scale and low-cost strategies for water management executed by individual households. There is considerable evidence, for example, that extensive check dam networks were constructed and used on the Mesa Verde cuesta, but their actual utility as a small-scale risk-aversion strategy to resource stress has not systematically been explored. This paper identifies all ephemeral drainages on the Mesa Verde cuesta where check dam construction was possible, then applies a maize growing niche model to estimate total yields from check dam farming plots for each year from AD 890–1285. A demographic reconstruction is then used to estimate the percentage of the total cuesta population that could have been supported using only check dam maize yields through time. Results suggest that check dam farming could have supplied a reliable source of surplus annual maize sufficient for household storage needs even during the most populous time periods across the cuesta landscape.</p>
+</div>
+<div class="column-full">
+<hr />
+<div id="dynamic-communities-on-the-mesa-verde-cuesta" class="section level2">
+<h2><strong>Dynamic Communities on the Mesa Verde Cuesta</strong></h2>
+<div id="american-antiquity" class="section level3">
+<h3><em>American Antiquity</em></h3>
+</div>
+</div>
+</div>
+<div class="column-left">
+<p><img src="Pictures/Reese_et_al_2019-AA.jpg" />  </p>
+<p><strong>Code for</strong> <a href="https://github.com/kmreese-io/Reese_et_al_2019"><strong>Dynamic Communities on the Mesa Verde Cuesta</strong></a></p>
+</div>
+<div class="column-right">
+<p>This paper systematically and quantitatively characterizes interaction dynamics and community formation based on changes in spatial patterns of contemporaneous households. We develop and apply a geo-spatial routine to measure changing extents of household interaction and community formation from A.D. 600–1280 on the Mesa Verde cuesta in southwestern Colorado. Results suggest that household spatial organization was shaped simultaneously by the maintenance of regular social interaction that sustained communities, and the need for physical space among households. Between A.D. 600 and 1200, households balanced these factors by forming an increased number of dispersed communities in response to increases in population and variable environmental stressors. However, as population rebounded after the mid-1100s megadrought, communities became increasingly compact, disrupting a long-standing equilibrium between household interaction and subsistence space within each community. The vulnerabilities this change in community spatial organization created were compounded by a cooler climate, drought, violence, and changes in political and ritual organization in the mid-A.D. 1200s, which ultimately culminated in the complete depopulation of the Mesa Verde cuesta by the end of the thirteenth century.</p>
+</div>
+<div class="column-full">
+<hr />
+<!-- ## **Mind the Gap: The Mesa Verde North Escarpment** -->
+<!-- </div> -->
+<!-- <div class="column-left"> -->
+<!-- ![](/Users/kmreese/Documents/PROFESSIONAL/kmreese-io.github.io/Pictures/SAA-REESE_AND_YAQUINTO_2018.jpeg) -->
+<!-- \linebreak -->
+<!-- \linebreak -->
+<!-- **Code for** [**Mind the Gap: The Mesa Verde North Escarpment**](https://github.com/kmreese-io/SAA-Reese_and_Yaquinto_2018) -->
+<!-- </div> -->
+<!-- <div class="column-right"> -->
+<!-- Archaeologists are inherently limited in their understanding of the past by the quality and quantity of data available. In the U.S. Southwest, we are fortunate to work in a region with a high degree of preservation and long history of archaeological inquiry. Because we work in a region with a dense and well-known archaeological record, we sometimes take what we know for granted and do not critically examine our assumptions. In the Mesa Verde region, extensive survey and excavation have revealed high population densities between A.D. 600 and 1300 both on and off the Mesa Verde cuesta. We have a knowledge gap, however, on the Mesa Verde North Escarpment. With limited habitation information, we assume the North Escarpment was less densely occupied than the immediately surrounding regions, but our assumptions are the product of missing data and not necessarily a reflection of settlement patterns and landscape use. This poster synthesizes what we currently know, what we do not, and employs a predictive model using the limited available data to help us better understand how the Mesa Verde North Escarpment may have been utilized from A.D. 600--1300. -->
+<!-- </div> -->
+
+
+
+
+</div>
+
+<script>
+
+// add bootstrap table styles to pandoc tables
+function bootstrapStylePandocTables() {
+  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');
+}
+$(document).ready(function () {
+  bootstrapStylePandocTables();
+});
+
+
+</script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open');
+  });
+});
+</script>
+
+<!-- code folding -->
+
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+</body>
+</html>
