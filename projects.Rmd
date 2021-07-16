@@ -38,23 +38,23 @@ title: "projects"
 <!-- Decreasing costs of consumer-level Unmanned Aerial Vehicles (UAVs) have increased accessibility to UAV-collected landscape data in archaeological contexts. Publications discussing the use of UAVs in archaeology, however, have mainly focused on the details of data collection while rarely discussing the potential applications of the collected information once it is processed. This focus on data collection has stunted the development of heuristic or theory-driven approaches to utilizing UAV-collected landscape data in pursuit of anthropologically-based research questions. This paper presents a theoretical framework for understanding how UAVs can inform and change our perspectives of cultural landscapes, and presents a case study applying the free and open-source protocol presented by Reese and Field (this issue) to illustrate one potential way to implement this technology to inform a heuristic model of constructed places in cultural landscapes. -->
 <!-- </div> -->
 
-<!-- <div class="column-full"> -->
-<!-- ************************************************************************** -->
-<!-- ## **A Methodological Framework for Free and Open-source UAV-based Archaeological Research** -->
-<!-- ### *Submitted for review* -->
-<!-- </div> -->
+<div class="column-full">
+**************************************************************************
+## **A Methodological Framework for Free and Open-source UAV-based Archaeological Research**
+### *Submitted for review*
+</div>
 
-<!-- <div class="column-left"> -->
-<!-- ![](/Users/kmreese/Documents/PROFESSIONAL/kmreese-io.github.io/Pictures/Reese_and_Field_2021-AAP.jpg) -->
-<!-- \linebreak -->
-<!-- \linebreak -->
+<div class="column-left">
+![](/Users/kmreese/Documents/PROFESSIONAL/kmreese-io.github.io/Pictures/Reese_and_Field_2021-AAP.jpg)
+\linebreak
+\linebreak
 
-<!-- **Code for** [**the Free and Open-source Software (FOSS) Protocol**](https://github.com/kmreese-io/Reese_and_Field_2021-AAP/blob/master/Reese_and_Field_2021-foss-protocol.txt) -->
-<!-- </div> -->
+**Code for** [**the Free and Open-source Software (FOSS) Protocol**](https://github.com/kmreese-io/Reese_and_Field_2021-AAP/blob/master/Reese_and_Field_2021-foss-protocol.txt)
+</div>
 
-<!-- <div class="column-right"> -->
-<!-- Full-coverage pedestrian survey to record cultural features on unexplored archaeological landscapes is costly in terms of time, money, and personnel. Over the past two decades, researchers have implemented remote sensing and landscape data collection techniques using Unmanned Aerial Vehicles (UAVs) to combat some of these burdens, but the initial cost of equipment, software, and processing power has hindered the ubiquitous implementation of UAV technology as an accessible companion tool to traditional archaeological survey. This paper presents a free and open-source, technology-independent analytical framework for the collection and processing of UAV images to produce high-resolution digital terrain models limited only by the equipment available to the researcher. Results from the free and open-source protocol are directly compared with those produced using proprietary software to illustrate the capabilities of freely-available data processing tools for UAV-collected images. By replicating the methods outlined here, researchers should be able to identify and target areas of interest to increase fieldwork efficiency, decrease costs of implementing this technology, and produce high-resolution terrain models to conduct spatial analyses that pursue a deeper understanding of cultural landscapes. -->
-<!-- </div> -->
+<div class="column-right">
+Full-coverage pedestrian survey to record cultural features on unexplored archaeological landscapes is costly in terms of time, money, and personnel. Over the past two decades, researchers have implemented remote sensing and landscape data collection techniques using Unmanned Aerial Vehicles (UAVs) to combat some of these burdens, but the initial cost of equipment, software, and processing power has hindered the ubiquitous implementation of UAV technology as an accessible companion tool to traditional archaeological survey. This paper presents a free and open-source, technology-independent analytical framework for the collection and processing of UAV images to produce high-resolution digital terrain models limited only by the equipment available to the researcher. Results from the free and open-source protocol are directly compared with those produced using proprietary software to illustrate the capabilities of freely-available data processing tools for UAV-collected images. By replicating the methods outlined here, researchers should be able to identify and target areas of interest to increase fieldwork efficiency, decrease costs of implementing this technology, and produce high-resolution terrain models to conduct spatial analyses that pursue a deeper understanding of cultural landscapes.
+</div>
 
 <div class="column-full">
 **************************************************************************
