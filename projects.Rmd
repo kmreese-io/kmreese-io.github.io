@@ -49,7 +49,7 @@ title: "projects"
 \linebreak
 \linebreak
 
-**Code for** [**the Free and Open-source Software (FOSS) Protocol**](https://github.com/kmreese-io/Reese_and_Field_2021-AAP)
+**Code for** [**the Free and Open-source Software (FOSS) UAV Protocol**](https://github.com/kmreese-io/Reese_and_Field_2021-AAP)
 </div>
 
 <div class="column-right">
