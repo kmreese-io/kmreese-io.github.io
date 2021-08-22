@@ -41,7 +41,7 @@ title: "projects"
 <div class="column-full">
 **************************************************************************
 ## **A Methodological Framework for Free and Open-source UAV-based Archaeological Research**
-### *Submitted for review*
+### *In print*
 </div>
 
 <div class="column-left">
@@ -49,7 +49,7 @@ title: "projects"
 \linebreak
 \linebreak
 
-**Code for** [**the Free and Open-source Software (FOSS) Protocol**](https://github.com/kmreese-io/Reese_and_Field_2021-AAP/blob/master/Reese_and_Field_2021-foss-protocol.txt)
+**Code for** [**the Free and Open-source Software (FOSS) Protocol**](https://github.com/kmreese-io/Reese_and_Field_2021-AAP)
 </div>
 
 <div class="column-right">
