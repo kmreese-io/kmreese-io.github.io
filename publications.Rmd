@@ -3,6 +3,9 @@ title: "publications"
 ---
 
 ## peer-reviewed
+Casana, Jesse, Elise J. Laugier, Austin Chad Hill, **Kelsey M. Reese**, Carolin Ferwerda, Mark D. McCoy, and Thegn Ladefoged  
+2021&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://kmreese-io.github.io/Documents/Casana_et_al_2021.pdf" target="_blank">Exploring archaeological landscapes using drone-acquired lidar: Case studies from Hawai’i, Colorado, and New Hampshire, USA.</a> *Journal of Archaeological Science: Reports* 39(103133): 1--10.  
+
 **Reese, Kelsey M.**   
 2021&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://kmreese-io.github.io/Documents/Reese_2021.pdf" target="_blank">Deep learning artificial neural networks for non-destructive archaeological site dating.</a> *Journal of Archaeological Science* 132(105413): 1--14.
 
@@ -33,7 +36,7 @@ Glowacki, Donna M., with contributions by Elise Alonzi, R. Kyle Bocinsky, and **
 
 ## unpublished thesis
 **Reese, Kelsey M.**   
-2021&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Resilient Commmunities of the Mesa Verde North Escarpment, AD 890--1300. Unpublished PhD thesis, University of Notre Dame, Notre Dame.
+2021&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Resilient Communities of the Mesa Verde North Escarpment, AD 890--1300. Unpublished PhD thesis, University of Notre Dame, Notre Dame.
 
 **Reese, Kelsey M.**   
 2014&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.dissertations.wsu.edu/Thesis/Spring2014/k_reese_042914.pdf" target="_blank">Over the Line: A Least-cost Analysis of 'Community' in Mesa Verde National Park.</a> Unpublished Master's thesis, Washington State University, Pullman.
