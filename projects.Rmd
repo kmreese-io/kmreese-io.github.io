@@ -41,7 +41,7 @@ title: "projects"
 <div class="column-full">
 **************************************************************************
 ## **A Methodological Framework for Free and Open-source UAV-based Archaeological Research**
-### *In print*
+### *Advances in Archaeological Practice*
 </div>
 
 <div class="column-left">

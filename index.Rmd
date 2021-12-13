@@ -5,22 +5,36 @@ title: southwest archaeologist \(\cdot\) computational specialist
 ![](/Users/kmreese/Documents/PROFESSIONAL/kmreese-io.github.io/Pictures/index.jpg)  
 \  
 
-I am a computational social scientist specializing in large-scale geospatial analyses utilizing archaeological datasets. My research explores the complexities of community development, occupation, and resiliency of subsistence-farmers during periods of sustained climate change in ecologically marginal spaces. I specialize in Ancestral Pueblo archaeology of the northern U.S. Southwest from AD 450--1300, and my experience includes extensive fieldwork in the Four Corners region, and several years of directing pedestrian survey on the Mesa Verde North Escarpment in southwestern Colorado.
+I am a computational social scientist with extensive experience utilizing large-scale geospatial analyses with archaeological datasets. My research explores the complexities of community development, occupation, and resiliency of subsistence-farmers during periods of sustained climate change in ecologically marginal spaces. I specialize in Ancestral Pueblo archaeology of the northern U.S. Southwest from AD 450--1300, and my experience includes a decade of fieldwork in the Four Corners region, with several years of directing pedestrian survey on the [Mesa Verde North Escarpment in southwestern Colorado](https://the-journal.com/articles/156383-pueblo-villages-thrived-on-mesa-verde-escarpment).
 
-I hold a PhD in Anthropology from the University of Notre Dame, an MA in Anthropology from Washington State University, and a BA in Political Science and Anthropology from the University of Illinois at Urbana-Champaign. I am currently a Postdoctoral Fellow at the University of Notre Dame, and a Research Associate at the Santa Fe Institute.
+I hold a Ph.D. and M.A. in Anthropology from the University of Notre Dame, an M.A. in Anthropology from Washington State University, and a B.A. in Political Science and Anthropology from the University of Illinois at Urbana-Champaign. 
 
-[Read an article from the Cortez Journal about a public presentation on the Mesa Verde North Escarpment.](https://the-journal.com/articles/156383-pueblo-villages-thrived-on-mesa-verde-escarpment)
+I am currently working as an Environmental Professional 2 in the Environmental Stewardship Group at Los Alamos National Laboratory while maintaining research affiliations with the Santa Fe Institute, Crow Canyon Archaeological Center, and the Research Institute at Crow Canyon. 
+
+I am also a strong advocate for the production and dissemination of free and open source research, and work to increase accessibility to powerful computational tools by writing and [releasing the code I have used in all of my publications](https://kmreese.io/projects.html).
+
 
 ### contact
-kreese1@nd.edu
+kmreese@lanl.gov
 
-Postdoctoral Fellow  
-University of Notre Dame   
-Department of Anthropology   
-296 Corbett Family Hall   
-Notre Dame, Indiana 46556   
+
+### affiliations
+Environmental Professional 2  
+EPC-CS: Environmental Stewardship Group  
+Los Alamos National Laboratory  
+Los Alamos, New Mexico 87545  
 
 Research Associate  
 Santa Fe Institute  
 1399 Hyde Park Road  
 Santa Fe, New Mexico 87501  
+
+Research Associate  
+Crow Canyon Archaeological Center  
+23390 County Road K  
+Cortez, Colorado 81321  
+
+Research Associate  
+The Research Institute at Crow Canyon  
+23390 County Road K  
+Cortez, Colorado 81321  

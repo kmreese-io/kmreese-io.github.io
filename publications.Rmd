@@ -3,6 +3,9 @@ title: "publications"
 ---
 
 ## peer-reviewed
+**Reese, Kelsey M.**, and Sean Field   
+2021&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://kmreese-io.github.io/Documents/Reese_and_Field_2021.pdf" target="_blank">A Methodological Framework for Free and Open-source UAV-based Archaeological Research.</a> *Advances in Archaeological Practice* 9(4): 394--401.
+
 Casana, Jesse, Elise J. Laugier, Austin Chad Hill, **Kelsey M. Reese**, Carolin Ferwerda, Mark D. McCoy, and Thegn Ladefoged  
 2021&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://kmreese-io.github.io/Documents/Casana_et_al_2021.pdf" target="_blank">Exploring archaeological landscapes using drone-acquired lidar: Case studies from Hawai’i, Colorado, and New Hampshire, USA.</a> *Journal of Archaeological Science: Reports* 39(103133): 1--10.  
 
